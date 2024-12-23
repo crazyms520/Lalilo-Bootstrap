@@ -6,7 +6,7 @@
 
 ## 說明
 
-測試上傳 github page
+測試上傳 github page test 2
 引入 Bootstrap 5.3.3 框架，拿掉些許功能調整成基礎版。
 
 這是一套 [OA Wu](https://www.ioa.tw/) 所製作的個人網頁前端框架，主功能是快速編寫網頁。
